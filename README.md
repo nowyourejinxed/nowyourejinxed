@@ -1,7 +1,7 @@
 ![nowyourejinxed](/nowyourejinxed.png?raw=true "NowYoureJinxed")
 <h2 align='center'>🩵 About Me 🩷</h3>
 
-💭 Currently working on my CS Masters @ UNR<br>🌙 Currently working as a Game Integration Intern for Game Play Network<br>🎮 My main interests are web and game development<br>🪴When I'm not on my laptop coding or playing video games, you can find me outdoors, at the gym, or learning a new skill!
+💭 Graduating in May with my CS Masters @ UNR<br>🌙 Currently working as a Game Integration Intern for Game Play Network<br>🎮 My main interests are web and game development<br>🪴When I'm not on my laptop coding or playing video games, you can find me outdoors, at the gym, or learning a new skill!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrinajackson-/) 
