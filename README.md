@@ -1,7 +1,7 @@
 ![nowyourejinxed](/nowyourejinxed.png?raw=true "NowYoureJinxed")
 <h2 align='center'>🩵 About Me 🩷</h3>
 
-🌙 Currently working as a Technical Solutions Engineer for Game Play Network<br>🎮 My main interests are web and game development<br>🪴When I'm not on my laptop coding or playing video games, you can find me outdoors, at the gym, or learning a new skill!
+🌙 Currently working as a Software Engineer for Game Play Network<br>🎮 My main interests are backend and game development<br>🪴When I'm not on my laptop coding or playing video games, you can find me outdoors, at the gym, or learning a new skill!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrinajackson-/) 
